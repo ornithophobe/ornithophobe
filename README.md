@@ -1,0 +1,4 @@
+- Hey, I’m @ornithophobe
+- I'm currently trying to make a shitty half-life tts bot, along with a few chatbots.
+- I'm mostly just doing things for fun. Don't expect anything revolutionary here.
+- You can reach me at ornithophobe#2222 on Discord
